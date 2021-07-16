@@ -40,3 +40,7 @@ share/python-wheels/
 MANIFEST
 *.py[cod]
 *$py.class
+
+
+# Remove_Latter:
+settings.py
